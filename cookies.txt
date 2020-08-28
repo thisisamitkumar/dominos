@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.in-freebies.club	TRUE	/	FALSE	1999999999	__cfduid	d17855fbf0deec6255f2d0f5ccc10b6d51598595361
+www.dominos.co.in-freebies.club	TRUE	/	FALSE	1999999999	SameSite	Lax
+.randomuser.me	TRUE	/	FALSE	1999999999	__cfduid	d170615eb108acc4f644483fb039b2c5b1598595374
+randomuser.me	TRUE	/	FALSE	1999999999	SameSite	Lax
+
